@@ -3,7 +3,7 @@
 * [ ] Homepage 
     * [ ] Top section: Show the element of the day and a button to go to the elements page
     * [ ] Display Units
-    * [ ] Credits
+    * [ ] Credits - Tina and Jolee
 
 * [ ] Template for Units
     * [X] Navbar - Jolee
@@ -23,8 +23,11 @@
     * [ ] Moving through flashcards
     * [ ] Information
 
-* [ ] Quiz 
-    * [ ] UI
+* [ ] Other
+    * [ ] Chemistry Game - Edward and Alex
+    * [ ] Quiz
+        * [ ] UI - Rain
+        * [ ] Function - Leo and Ryan
 
 * [ ] Elements of the Periodic Table:
     * [X] Element phase display - William
@@ -48,8 +51,8 @@
 
 ## Wait for Writers to give information first
 
-* [ ] Add information/text on website:
-    * [ ] Unit 1 information/text
+* [ ] Add information/text on website (Units): - Gabriel and Nancy 
+    * [ ] Unit 1 information/text - Cammi and Winnie
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -58,7 +61,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 2 information/text
+    * [ ] Unit 2 information/text - Farzona and Jayden Kuu
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -67,7 +70,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 3 information/text
+    * [ ] Unit 3 information/text - Qilin Xue
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -76,7 +79,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 4 information/text
+    * [ ] Unit 4 information/text - Lizzy
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -85,7 +88,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 5 information/text
+    * [ ] Unit 5 information/text - Ronnie
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -94,7 +97,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 6 information/text
+    * [ ] Unit 6 information/text - Zheng
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -103,7 +106,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 7 information/text
+    * [ ] Unit 7 information/text - Sara and Citlali
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -112,7 +115,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 8 information/text
+    * [ ] Unit 8 information/text - Jayden Cen and Jacky
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
@@ -121,7 +124,7 @@
             * [ ] 3
             * [ ] 4
             * [ ] 5
-    * [ ] Unit 9 information/text
+    * [ ] Unit 9 information/text - Santiago
         * [ ] Real world connection:
         * [ ] Misconception:
         * [ ] Takeaways:
