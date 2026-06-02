@@ -13,6 +13,9 @@
         border-radius: 20px;
       }
       .hidecards {display: none}
+
+      .front {text-align: center; padding-top: 18px}
+      .back {text-align: center; padding-top: 18px}
     </style>
     <title>Unit X</title>
 
@@ -65,16 +68,23 @@
     <div class="row">
 
       <!--Will make proper cards later, just a placeholder for visual-->
-      <div class="col-md-6">
-        <div class="card-body" id="card">
-          <h4 class="card-title" id="front">Word</h4>
-          <p id="back">Info</p>
+      <div class="col-md-4">
+        <div class="card-body card" id="card">
+          <h4 class="card-title front" id="front">Word</h4>
+          <p class="back">Info</p>
         </div>
       </div>
 
-        <div class="col-md-6">
-        <div class="card-body" id="card">
-          <h4 class="card-title" id="front">Word</h4>
+        <div class="col-md-4">
+        <div class="card-body card" id="card">
+          <h4 class="card-title front" id="front">Word</h4>
+          <p class="back">Info</p>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body card" id="card">
+          <h4 class="card-title front" id="front">Word</h4>
           <p class="back">Info</p>
         </div>
       </div>
@@ -86,15 +96,15 @@
     <hr>
     <br>
 
-    <div class="container-fluid spacing">
+    <div class="container-fluid">
       <div class="row">
         <div class="col">
           <u style="color: green"><h3 class="inter-bold" style="color: green">CORE CONCEPTS</h3></u>
-        <h1 class="inter-bold">Main Takeaways</h1>
+        <h1 class="inter-bold">Main Takeaways:</h1>
         </div>
         <div class="col">
           <u style="color: red;"><h3 class="inter-bold" style="color: red">WATCH OUT</h3></u>
-          <h1 class="inter-bold">Common Misconceptions</h1>
+          <h1 class="inter-bold">Common Misconceptions:</h1>
         </div> 
       </div>
       
@@ -125,16 +135,23 @@
     </div>
     <script>
       // Flashcard JS
-      var card = document.querySelector(".card-body")
-      var front = document.querySelector(".card-title")
-      var back = document.querySelector(".back")
+      var cards = document.querySelectorAll(".card")
+      var front = document.querySelectorAll(".front")
+      var backs = document.querySelectorAll(".back")
 
-      back.classList.add("hidecards")
-     
-        card.addEventListener("click", function(){
-        front.classList.toggle("hidecards")
-        back.classList.toggle("hidecards")
+      backs.forEach(function(back){
+        back.classList.add("hidecards")
       })
+     
+      // figured out thanks to Mr. Mueller
+      cards.forEach(function(card){
+        card.addEventListener("click", function(){
+          console.log(card.children)
+        card.children[0].classList.toggle("hidecards")
+        card.children[1].classList.toggle("hidecards")
+      })
+      })
+        
       // })
       
     </script>
