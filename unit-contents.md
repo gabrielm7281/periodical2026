@@ -444,40 +444,221 @@ What does the Beer-Lambert Law state?
 
 # Unit 4 Chemical Reactions
  ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
+-Aqueous Solution:
+a homogeneous mixture where water acts as the solvent, dissolving other substances.
+Solute:
+a substance that dissolves in a solvent to form a homogeneous mixture.
+-Solvent:
+a substance (usually a liquid) capable of dissolving another substance, known as a solute, to form a homogeneous mixture.
+-Electrolyte:
+a substance that produces an electrically conducting solution when dissolved in a solvent.
+-Dissociation:
+the process where a compound, molecule, or salt breaks apart into smaller, simpler pieces, such as atoms or ions.
+-Chemical Change:
+a process in which one or more substances are transformed into entirely new substances with different chemical compositions and properties.
+-Physical Change:
+a transformation that alters the form, state, or appearance of a substance without changing its chemical composition or identity.
+-Precipitate:
+an insoluble solid that forms when two aqueous solutions react.
+-Complete Ionic Equation:
+a chemical equation that shows all dissolved, strong ionic compounds and strong acids written as dissociated ions in their aq states, instead of as combined molecules.
+-Spectator Ions:
+ions that are present in a chemical reaction but do not actively participate in it.
+-Net Ionic Equation:
+a chemical equation that shows only the specific ions and molecules that actively participate in a chemical reaction.
+-Acid-Base Reaction:
+a chemical process where an acid and a base interact, resulting in the transfer of a hydrogen ion.
+-Stoichiometry:
+the branch of chemistry that calculates the relative amounts of reactants and products involved in a chemical reaction.
+-Limiting Reactant:
+The substance that is completely consumed first in a chemical reaction. It dictates the maximum amount of product that can be created, acting as an absolute cap because the reaction cannot continue once this ingredient runs out.
+-Excess reactant:
+the substance that is not completely consumed in a chemical reaction.
+-Titration:
+a technique used to determine the concentration of an unknown solution by adding measured amounts of a known solution until a specific chemical reaction is completed.
+-Equivalence Point:
+the exact moment in a chemical reaction when the amount of titrant added is stoichiometrically equal to the amount of analyte (the substance being tested) originally present in the sample.
+-Standard Solution:
+a chemical mixture containing a known and highly accurate concentration of a specific solute.
+Titrant:
+a solution of a known concentration that is added to another solution (the analyte) during a titration.
+-Solubility:
+the maximum amount of a substance (the solute) that can dissolve in a specific amount of another substance (the solvent) at a given temperature and pressure to form a saturated solution.
+-Insoluble:
+incapable of being dissolved in a liquid, or impossible to solve or explain.
+-Mole Ratio:
+the proportional relationship between the amounts in moles of any two substances involved in a chemical reaction.
+-Balanced Equation:
+a representation of a chemical reaction where the exact same number of atoms for each element is present on both the reactant and product sides.
+-Oxidation:
+a chemical process where a substance loses electrons, causing an increase in its oxidation state.
+-Reduction:
+the process where a chemical species gains electrons, causing its oxidation state to decrease
+-Oxidation numbers:
+the theoretical charge an atom would have if all its bonds were 100% ionic
+
 ### Main Takeaways:
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
-- Takeaway 4
-- Takeaway 5
+
+-Net Ionic Equations and Spectator Ions:
+A net ionic equation highlights the chemical species that actually change during a reaction, while spectator ions are the leftover ions present in the solution that do not participate in the chemical change
+
+-Physical vs. Chemical Changes:
+Physical Changes alter the form or appearance of a substance without breaking intramolecular bonds (e.g., phase changes or dissolving). Whereas chemical changes result in new substances and involve breaking and forming covalent or ionic bonds. A way we can prove this strictly through vision is by observing color changes, gas evolution, or precipitate formation
+
+-Reaction Stoichiometry and Limiting Reactants:
+Molar ratios are the coefficients in a balanced chemical equation that dictate the exact molar ratios of reactants and products. And the limiting reagent is the reactant that is completely consumed first, which limits the maximum amount of product that can be formed.
+
+-Titration and Solution Concentration:
+Titrations are used to determine the unknown concentration of an analyte using a titrant of known concentration. The equivalence point is the point in the titration where the moles of titrant stoichiometrically equal the moles of analyte.
+
+-Classifying Reactions: Acid-Base, Redox and Precipitations:
+You have to be able to identify 3 kinds of reactions: the Acid-Base reaction: which is the transfer of the proton (H+) in reactions. The Redox (Oxidation-Reduction) reaction which is the electron transfer process. Oxidation is Loss of electrons, Reduction is Gain. Finally, the precipitation reaction which is when two aqueous ionic solutions mix to form an insoluble solid.
+
 ### Misconception:
-- A misconception is xxxx
+- Many people believe that the reactant with the largest mass is always the limiting reactant. The limiting reactant is determined by the lowest number of moles available based on the stoichiometric ratio, not the initial mass.
+
+An example would be:
+2H2+O2->2H2O
+If you have 4.00g of H2 and 64.0g of O2, a misconception would be that O2 is the limiting reactant but when you do the calculations, you'll see that there are 1.98 Moles of H2 and 2.00 moles of O2 therefore H2 is the limiting reactant regardless of the fact that the initial mass was less than the mass of O2.
+
 ### Real World Connection:
-- Paragraph connecting unit to real world...
+- Understanding chemical reactions explains how everyday items like soaps, antacids, batteries, and the airbag in your car work. A big part of AP Chemistry is that you are required to observe electron transfer, assign oxidation numbers, and balance equations. This all happens around us daily, specifically in the life saving item in your car, your air bags. A car airbag is like a super-fast balloon filled by a chemical reaction. When a car crashes, the airbag inflates to make sure there are no serious injuries. Here is how chemistry does that. Inside the steering wheel, there is no trapped air. Instead, there is just a small handful of a white powder called sodium azide and when the sensors detect a crash, they shoot a tiny electric spark into that powder. (Because sodium azide is highly toxic, the inflator also contains chemicals like potassium nitrate and silica. These react with the sodium to turn it into harmless glass.) The heat from that spark causes a sudden chemical change. In just seconds, the solid powder violently splits apart and transforms into a massive cloud of nitrogen gas. This is a prime example of an exothermic reaction taking place in real time to potentially save a life. There is another extremely significant part of this. If the engineers put too little powder in the wheel, the bag will be floppy, and you will hit the dashboard. And if they put too much powder, the bag will inflate like a bomb and hurt you. Engineers must calculate the exact weight of the powder so that it creates just enough gas to fill the bag perfectly—not too hard, and not too soft.
 ### Quiz:
 - Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+Question: When aqueous solutions of Na₂CO₃ and HCl are mixed, which species appears in the net ionic equation?
+
+_Na2CO3(aq)+2HCl(aq)−>2NaCl(aq)+H2O(l)+CO2(g)
+
+A. Na+
+Spectator ion. It appears on both sides and does not participate in the chemical change.
+B. Cl-
+Also a spectator ion.
+C. CO3 2- (right)
+Reacting species that reacts with H⁺ to form CO₂ and H₂O.
+(aq)+2H+(aq)−>H2O(l)+CO2(g)
+D. NaCl
+It is a product, but it dissolves completely and is not part of the net ionic equation—it’s part of spectator ions.
+Reaction:
+_N2+3H2−>2NH3
+
+Question 2: Given 4.0 mol N2 and 10.0 mol H₂.
+
+A. N2
+Check: N2 requires 3 moles H2 per mole N2. Needed H2 = 4×3 = 12 mol. Only 10 mol available -> N2 is not limiting.
+B. H2 (correct)
+Available H2 = 10 mol < 12 mol needed → H2 is limiting.
+C. NH3
+Not a reactant. Limiting reactant is a reactant that limits product formation.
+D. Neither reactant
+We calculated H2 is limiting → incorrect.
+
+Question 3:
+
+Question: Oxidation number of S in _SO4 2−
+
+A) +4
+S is more oxidized than +4 in sulfate.
+B) +5
+Closer, but still not correct.
+C) +6 (correct)
+Oxygen = -2 → 4×(-2) = -8
+Charge = -2 → S + (-8) = -2 → S = +6
+D) +8
+S cannot reach +8 in this species; max is +6.
+
+Question 4:
+
+Which forms a precipitate?
+
+A) NaNO3 + KCl
+All soluble salts → no precipitate.
+B) NaCl + KNO3
+All soluble.
+C) AgNO3 + NaCl
+AgCl is insoluble → precipitate forms.
+D) NaOH + KNO3
+Both soluble.
+
+Question 5:
+
+25 mL 0.200 M HCl titrated with 0.100 M NaOH. Volume for equivalence?
+
+A) 25 mL
+Too small.
+B) 50 mL
+Moles HCl = 0.025 × 0.2 = 0.005 mol
+Moles NaOH needed = 0.005 mol
+V = 0.005 / 0.1 = 0.050 L = 50 mL
+C) 12.5 mL
+Would only provide 0.00125 mol NaOH → too little.
+D) 100 mL
+Too much, would exceed equivalence.
+
+
+Question 6: _Zn(s)+Cu2+(aq)−>Zn2+(aq)+Cu(s)
+
+A) Zn
+Zn is oxidized → loses electrons. Not reduced.
+B) Zn2+
+Already oxidized → cannot gain electrons here.
+C) Cu
+Cu metal is the product of reduction → reduced, but the species being reduced is Cu²⁺.
+D) Cu2+
+Cu2+ gains 2 electrons → reduced to Cu(s).
+
+Question 7:
+
+Pb(NO3)2 + KI → PbI2(s) + KNO3(aq)
+
+A. Pb2+
+Reacting species → forms PbI2(s).
+B. I-
+Reacting species → combines with Pb2+.
+C. K+
+k+ does not react → spectator ion.
+D. PbI2
+Product, not an ion in solution → not a spectator.
+
+Question 8
+
+_2Al+3Cl2−>2AlCl3
+
+6.0 mol Cl2 → moles AlCl3?
+
+A) 3.0 mol
+Incorrect mole ratio calculation.
+B) 4.0 mol (correct)
+Moles AlCl3 = 6 × 2/3 = 4.0 mol
+C) 6.0 mol
+Assumes 1:1 ratio.
+D) 9.0 mol
+Overestimates.
+
+Question 9
+
+A) HCl + NaOH → NaCl + H2O
+No electron transfer → acid-base neutralization.
+B) AgNO3 + NaCl → AgCl + NaNO3
+No change in oxidation states → precipitation reaction.
+C) CH4 + 2O2 → CO2 + 2H2O (right)
+C: -4 → +4, O: 0 → -2 → electrons transferred → redox.
+D) BaCl2 + Na2SO4 → BaSO4 + 2NaCl
+Precipitation reaction only → no redox.
+
+Question 10:
+
+100 mL 0.200 M AgNO3 + 100 mL 0.150 M NaCl
+
+Moles Ag+ = 0.100 × 0.200 = 0.0200 mol
+Moles Cl+ = 0.100 × 0.150 = 0.0150 mol → limiting
+Precipitate = 0.0150 mol
+
+Choices:
+
+A. 0.0150 mol (Correct)
+B. 0.0200 mol moles Ag+, not limiting
+C. 0.0350 mol sum of ions, nonsense
+D. 0.0050 mol too small
 
   # Unit 5 Kinetics
  ### Vocabulary List:
@@ -521,13 +702,13 @@ This would occur if the reaction were second order in A (rate ∝ [A]²).
 This would correspond to a third-order dependence on A (rate ∝ [A]³).
 
 Question 2
-Rate = k[A]²[B]. If [A] is doubled, what happens to the rate?
+Rate = k[A]^2[B]. If [A] is doubled, what happens to the rate?
 A. double
 This ignores the exponent of 2 on [A], which is critical in the rate law.
 B. triple
 No mathematical relationship in the rate law produces a factor of 3.
 C. quadruple (correct)
-Rate = k(2[A])²[B] = 4k[A]²[B], so rate increases by 4.
+Rate = k(2[A])^2[B] = 4k[A]^2[B], so rate increases by 4.
 D. eightfold
 This would require a cubic dependence on [A], not quadratic.
 
@@ -666,26 +847,122 @@ In reality breaking a chemical bond requires energy(absorption) which is an endo
 ### Real World Connection:
 - Have you ever used a hot or cold pack in your life?Have you wondered how heat is transferred from these things? When you pop an instant cold pack, it starts an endothermic reaction that absorbs heat and makes your injured ankle feel cold. On the other hand, activating a chemical hand warmer starts an exothermic reaction that releases heat, making your freezing hands feel hot.
 ### Quiz:
-- Question 1
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C (Correct Choice)
-  - Answer Choice D
-- Question 2
-  - Answer Choice A
-  - Answer Choice B (Correct Choice)
-  - Answer Choice C
-  - Answer Choice D
-- Question 3
-  - Answer Choice A (Correct Choice)
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D
-- Question 4
-  - Answer Choice A
-  - Answer Choice B
-  - Answer Choice C
-  - Answer Choice D (Correct Choice)
+
+Question 1: A gas absorbs 150 J of heat and does 40 J of work on the surroundings. ΔE = ?
+
+A. +190 J
+This would be correct if work were added instead of subtracted. Work done by the system is energy leaving, so it should subtract.
+B. +110 J
+ΔE = q + w = 150 J + (-40 J) = 110 J. Correct.
+C. -110 J
+This reverses the sign of energy change; heat was absorbed → positive ΔE.
+D. -190 J
+This assumes both heat and work are negative → completely wrong.
+- Question 2: Beaker feels colder. What is true?
+  - Answer ΔH is negative
+  A colder beaker means system absorbed heat → ΔH positive (endothermic).
+  - Answer Heat flows from surroundings into the system (Correct Choice)
+  Correct. System takes in heat → surroundings lose heat → beaker gets colder.
+  - Bond formation exceeds bond breaking
+  Bond formation releases energy, but endothermic reactions require more energy to break bonds than
+  - The reaction violates the First Law
+  No law is violated. Energy is conserved; it just transfers.
+- Question 3: ΔH for multi-step reaction:
+
+  ΔH₁ = +40 kJ
+  ΔH₂ = -75 kJ
+  ΔH₃ = +15 kJ
+
+  A. +130 kJ
+  Adds magnitudes only → ignores signs.
+  B. -20 kJ (right)
+  Correct: 40 + (-75) + 15 = -20 kJ.
+  C. -50 kJ
+  Arithmetic mistake.
+  D. +20 kJ
+  Sign error.
+
+Question 4: Which is correct?
+
+A. Breaking bonds always releases energy
+False. Breaking bonds requires energy (endothermic).
+B. Breaking bonds absorbs energy and forming bonds releases energy (right)
+Correct. Breaking = energy in, forming = energy out.
+C. Both bond breaking and forming release energy
+False. Only forming releases energy.
+D. Bond formation always absorbs energy
+False. Forming bonds releases energy.
+
+Question 5: Solution temperature rises → conclusion?
+
+A. Reaction is endothermic
+Temperature rises → reaction releases heat → exothermic.
+B. Reaction absorbed heat from solution
+Solution temperature rises → heat goes to solution, not from it.
+C. Reaction released heat to solution (correct)
+Correct. Heat released by reaction warms the solution.
+D. ΔH must equal zero
+Reaction is not zero; heat is transferred.
+
+Question 6: Height vs pathway analogy
+
+A. Time required
+Depends on path → not a state function.
+B. Distance traveled
+Depends on path → not a state function.
+C. Energy used by each student
+Depends on method → not a state function.
+D. Change in height (correct)
+Depends only on start and end → state function.
+
+7. What is the Standard Enthalpy of Formation
+A. H₂O(l)
+Compound → ΔHf° ≠ 0
+B. CO₂(g)
+Compound → ΔHf° ≠ 0
+C. O₂(g) (correct)
+Element in standard state → ΔHf° = 0
+D. NaCl(s)
+Compound → ΔHf° ≠ 0
+
+Question 8: A student adds 250 J of heat to a 50.0 g sample of an unknown metal. The metal's temperature increases from 20.0°C to 30.0°C.
+
+What is the specific heat capacity of the metal?
+
+A. 0.50 J/(g·°C) (correct)
+c=250/(50.0)(10.0)
+
+B. 2.0 J/(g·°C)
+q=(50)(2.0)(10)=1000 J
+The question only supplied 250 J.
+
+C. 5.0 J/(g·°C)
+This value is actually greater than the specific heat of water (4.18 J/g·°C), which would imply the metal stores heat even more effectively than water—highly unlikely.
+
+D. 12.5 J/(g·°C)
+Far more heat than was provided.
+
+Question 9: Which increases entropy the most?
+
+A. Water freezing
+Liquid → solid → less disorder → decreases entropy.
+B. Water condensing
+Gas → liquid → decreases entropy.
+C. Ice melting (correct)
+Solid → liquid → increases disorder → increases entropy.
+D. Salt crystallizing
+Ions in solution → solid → decreases entropy.
+
+10. ΔH = -250 kJ → spontaneous exothermic reaction.
+
+A. Products have greater potential energy than reactants
+Wrong. Exothermic → products lower energy.
+B. Reactants have greater potential energy than products (correct)
+Correct. ΔH negative → energy released → reactants higher energy.
+C. Reaction absorbs energy from surroundings
+Exothermic → releases energy.
+D. Bond breaking released more energy than bond formation
+Breaking bonds requires energy → bond formation releases more → exothermic overall.
 
   # Unit 7 Equilibrium
  ### Vocabulary List:
