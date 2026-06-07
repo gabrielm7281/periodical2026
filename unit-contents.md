@@ -177,19 +177,48 @@ When the volume of the container is doubled from 1L to 2L, the partial pressure 
 
 # Unit 4 Chemical Reactions
  ### Vocabulary List:
- - Vocab 1
- - Vocab 2
- - Vocab 3
+ - Aqueous Solution: a homogeneous mixture where water acts as the solvent, dissolving other substances.
+ - Solute: a substance that dissolves in a solvent to form a homogeneous mixture.
+ - Solvent: a substance (usually a liquid) capable of dissolving another substance, known as a solute, to form a homogeneous mixture.
+ - Electrolyte: a substance that produces an electrically conducting solution when dissolved in a solvent.
+ - Dissociation: the process where a compound, molecule, or salt breaks apart into smaller, simpler pieces, such as atoms or ions.
+ - Chemical Change: a process in which one or more substances are transformed into entirely new substances with different chemical compositions and properties.
+ - Physical Change: a transformation that alters the form, state, or appearance of a substance without changing its chemical composition or identity.
+ - Precipitate: an insoluble solid that forms when two aqueous solutions react.
+ - Complete Ionic Equation: a chemical equation that shows all dissolved, strong ionic compounds and strong acids written as dissociated ions in their aq states, instead of as combined molecules.
+ - Spectator Ions:
+ions that are present in a chemical reaction but do not actively participate in it.
+ - Net Ionic Equation: a chemical equation that shows only the specific ions and molecules that actively participate in a chemical reaction.
+ - Acid-Base Reaction: a chemical process where an acid and a base interact, resulting in the transfer of a hydrogen ion.
+ - Stoichiometry: the branch of chemistry that calculates the relative amounts of reactants and products involved in a chemical reaction. 
+ - Limiting Reactant: The substance that is completely consumed first in a chemical reaction. It dictates the maximum amount of product that can be created, acting as an absolute cap because the reaction cannot continue once this ingredient runs out
+ - Excess reactant: the substance that is not completely consumed in a chemical reaction.
+ - Titration: a technique used to determine the concentration of an unknown solution by adding measured amounts of a known solution until a specific chemical reaction is completed.
+ - Equivalence Point: the exact moment in a chemical reaction when the amount of titrant added is stoichiometrically equal to the amount of analyte (the substance being tested) originally present in the sample.
+ - Standard Solution: a chemical mixture containing a known and highly accurate concentration of a specific solute.
+ - Titrant: a solution of a known concentration that is added to another solution (the analyte) during a titration.
+ - Solubility: the maximum amount of a substance (the solute) that can dissolve in a specific amount of another substance (the solvent) at a given temperature and pressure to form a saturated solution.
+ - Insoluble: incapable of being dissolved in a liquid, or impossible to solve or explain.
+ - Mole Ratio: the proportional relationship between the amounts in moles of any two substances involved in a chemical reaction.
+ - Balanced Equation: a representation of a chemical reaction where the exact same number of atoms for each element is present on both the reactant and product sides.
+ - Oxidation: a chemical process where a substance loses electrons, causing an increase in its oxidation state.
+ - Reduction: the process where a chemical species gains electrons, causing its oxidation state to decrease
+ - Oxidation numbers: the theoretical charge an atom would have if all its bonds were 100% ionic
 ### Main Takeaways:
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
-- Takeaway 4
-- Takeaway 5
+- A net ionic equation highlights the chemical species that actually change during a reaction, while spectator ions are the leftover ions present in the solution that do not participate in the chemical change
+- Physical Changes alter the form or appearance of a substance without breaking intramolecular bonds (e.g., phase changes or dissolving). Whereas chemical changes result in new substances and involve breaking and forming covalent or ionic bonds. A way we can prove this strictly through vision is by observing color changes, gas evolution, or precipitate formation
+- Molar ratios are the coefficients in a balanced chemical equation that dictate the exact molar ratios of reactants and products. And the limiting reagent is the reactant that is completely consumed first, which limits the maximum amount of product that can be formed.
+- Titrations are used to determine the unknown concentration of an analyte using a titrant of known concentration. The equivalence point is the point in the titration where the moles of titrant stoichiometrically equal the moles of analyte.
+- You have to be able to identify 3 kinds of reactions: the Acid-Base reaction: which is the transfer of the proton (H+) in reactions. The Redox (Oxidation-Reduction) reaction which is the electron transfer process. Oxidation is Loss of electrons, Reduction is Gain. Finally, the precipitation reaction which is when two aqueous ionic solutions mix to form an insoluble solid.
 ### Misconception:
-- A misconception is xxxx
+- Many people believe that the reactant with the largest mass is always the limiting reactant. The limiting reactant is determined by the lowest number of moles available based on the stoichiometric ratio, not the initial mass.
+
+An example would be:
+2H2+O2->2H2O
+If you have 4.00g of H2 and 64.0g of O2, a misconception would be that O2 is the limiting reactant but when you do the calculations, you'll see that there are 1.98 Moles of H2 and 2.00 moles of O2 therefore H2 is the limiting reactant regardless of the fact that the initial mass was less than the mass of O2.
+
 ### Real World Connection:
-- Paragraph connecting unit to real world...
+- Understanding chemical reactions explains how everyday items like soaps, antacids, batteries, and the airbag in your car work. A big part of AP Chemistry is that you are required to observe electron transfer, assign oxidation numbers, and balance equations. This all happens around us daily, specifically in the life saving item in your car, your air bags. A car airbag is like a super-fast balloon filled by a chemical reaction. When a car crashes, the airbag inflates to make sure there are no serious injuries. Here is how chemistry does that. Inside the steering wheel, there is no trapped air. Instead, there is just a small handful of a white powder called sodium azide and when the sensors detect a crash, they shoot a tiny electric spark into that powder. (Because sodium azide is highly toxic, the inflator also contains chemicals like potassium nitrate and silica. These react with the sodium to turn it into harmless glass.) The heat from that spark causes a sudden chemical change. In just seconds, the solid powder violently splits apart and transforms into a massive cloud of nitrogen gas. This is a prime example of an exothermic reaction taking place in real time to potentially save a life. There is another extremely significant part of this. If the engineers put too little powder in the wheel, the bag will be floppy, and you will hit the dashboard. And if they put too much powder, the bag will inflate like a bomb and hurt you. Engineers must calculate the exact weight of the powder so that it creates just enough gas to fill the bag perfectly—not too hard, and not too soft.
 ### Quiz:
 - Question 1
   - Answer Choice A
