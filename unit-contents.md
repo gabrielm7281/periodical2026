@@ -524,141 +524,116 @@ If you have 4.00g of H2 and 64.0g of O2, a misconception would be that O2 is the
 ### Real World Connection:
 - Understanding chemical reactions explains how everyday items like soaps, antacids, batteries, and the airbag in your car work. A big part of AP Chemistry is that you are required to observe electron transfer, assign oxidation numbers, and balance equations. This all happens around us daily, specifically in the life saving item in your car, your air bags. A car airbag is like a super-fast balloon filled by a chemical reaction. When a car crashes, the airbag inflates to make sure there are no serious injuries. Here is how chemistry does that. Inside the steering wheel, there is no trapped air. Instead, there is just a small handful of a white powder called sodium azide and when the sensors detect a crash, they shoot a tiny electric spark into that powder. (Because sodium azide is highly toxic, the inflator also contains chemicals like potassium nitrate and silica. These react with the sodium to turn it into harmless glass.) The heat from that spark causes a sudden chemical change. In just seconds, the solid powder violently splits apart and transforms into a massive cloud of nitrogen gas. This is a prime example of an exothermic reaction taking place in real time to potentially save a life. There is another extremely significant part of this. If the engineers put too little powder in the wheel, the bag will be floppy, and you will hit the dashboard. And if they put too much powder, the bag will inflate like a bomb and hurt you. Engineers must calculate the exact weight of the powder so that it creates just enough gas to fill the bag perfectly—not too hard, and not too soft.
 ### Quiz:
-- Question 1
-Question: When aqueous solutions of Na₂CO₃ and HCl are mixed, which species appears in the net ionic equation?
+1.
+When aqueous solutions of Na₂CO₃ and HCl are mixed, which species appears in the net ionic equation?
+Na₂CO₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g)
+- Na⁺
+  - Explanation - Spectator ion. It appears on both sides and does not participate in the chemical change.
+- Cl⁻
+  - Explanation - Spectator ion. It also does not participate in the reaction.
+- CO₃²⁻ (Correct Choice)
+  - Explanation - Reacting species. It reacts with H⁺ to form CO₂ and H₂O.
+- NaCl
+  - Explanation - Product that dissociates completely; it is not part of the net ionic equation.
 
-_Na2CO3(aq)+2HCl(aq)−>2NaCl(aq)+H2O(l)+CO2(g)
+2.
+Given 4.0 mol N₂ and 10.0 mol H₂, which is the limiting reactant in N₂ + 3H₂ → 2NH₃?
+- N₂
+  - Explanation - Not limiting; 4 mol N₂ would require 12 mol H₂, but only 10 mol H₂ is available.
+- H₂ (Correct Choice)
+  - Explanation - Limiting reactant because there is not enough H₂.
+- NH₃
+  - Explanation - Product, not a reactant.
+- Neither reactant
+  - Explanation - Incorrect because H₂ limits the reaction.
 
-A. Na+
-Spectator ion. It appears on both sides and does not participate in the chemical change.
-B. Cl-
-Also a spectator ion.
-C. CO3 2- (right)
-Reacting species that reacts with H⁺ to form CO₂ and H₂O.
-(aq)+2H+(aq)−>H2O(l)+CO2(g)
-D. NaCl
-It is a product, but it dissolves completely and is not part of the net ionic equation—it’s part of spectator ions.
-Reaction:
-_N2+3H2−>2NH3
+3.
+What is the oxidation number of S in SO₄²⁻?
+- +4
+  - Explanation - Incorrect; sulfur is more oxidized in sulfate.
+- +5
+  - Explanation - Incorrect intermediate value.
+- +6 (Correct Choice)
+  - Explanation - O is −2 each (4 × −2 = −8); S + (−8) = −2 → S = +6
+- +8
+  - Explanation - Not possible for sulfur in this compound.
 
-Question 2: Given 4.0 mol N2 and 10.0 mol H₂.
+4.
+Which reaction forms a precipitate?
+- NaNO₃ + KCl
+  - Explanation - All products are soluble; no precipitate forms.
+- NaCl + KNO₃
+  - Explanation - All soluble salts.
+- AgNO₃ + NaCl (Correct Choice)
+  - Explanation - AgCl is insoluble and forms a precipitate.
+- NaOH + KNO₃
+  - Explanation - All products remain soluble.
 
-A. N2
-Check: N2 requires 3 moles H2 per mole N2. Needed H2 = 4×3 = 12 mol. Only 10 mol available -> N2 is not limiting.
-B. H2 (correct)
-Available H2 = 10 mol < 12 mol needed → H2 is limiting.
-C. NH3
-Not a reactant. Limiting reactant is a reactant that limits product formation.
-D. Neither reactant
-We calculated H2 is limiting → incorrect.
+5.
+25 mL 0.200 M HCl is titrated with 0.100 M NaOH. What volume is required for equivalence?
+- 25 mL
+  - Explanation - Not enough base to neutralize all acid.
+- 50 mL (Correct Choice)
+  - Explanation - Moles HCl = 0.025 × 0.200 = 0.005 mol; V = 0.005 / 0.100 = 50 mL
+- 12.5 mL
+  - Explanation - Only neutralizes half the acid.
+- 100 mL
+  - Explanation - Excess base beyond equivalence point.
 
-Question 3:
+6.
+Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s). Which species is reduced?
+- Zn
+  - Explanation - Zinc is oxidized, not reduced.
+- Zn²⁺
+  - Explanation - Already oxidized; not reduced here.
+- Cu
+  - Explanation - Product of reduction, but Cu²⁺ is the species reduced.
+- Cu²⁺ (Correct Choice)
+  - Explanation - Gains electrons to form Cu(s), so it is reduced.
 
-Question: Oxidation number of S in _SO4 2−
+7.
+Pb(NO₃)₂ + KI → PbI₂(s) + KNO₃(aq). Which ion is a spectator?
+- Pb²⁺
+  - Explanation - Reacts to form precipitate.
+- I⁻
+  - Explanation - Reacts with Pb²⁺.
+- K⁺ (Correct Choice)
+  - Explanation - Does not participate in the reaction.
+- PbI₂
+  - Explanation - Solid product, not an ion in solution.
 
-A) +4
-S is more oxidized than +4 in sulfate.
-B) +5
-Closer, but still not correct.
-C) +6 (correct)
-Oxygen = -2 → 4×(-2) = -8
-Charge = -2 → S + (-8) = -2 → S = +6
-D) +8
-S cannot reach +8 in this species; max is +6.
+8.
+2Al + 3Cl₂ → 2AlCl₃. How many moles of AlCl₃ form from 6.0 mol Cl₂?
+- 3.0 mol
+  - Explanation - Incorrect ratio.
+- 4.0 mol (Correct Choice)
+  - Explanation - 6.0 × (2/3) = 4.0 mol
+- 6.0 mol
+  - Explanation - Incorrect 1:1 assumption.
+- 9.0 mol
+  - Explanation - Overestimation.
 
-Question 4:
+9.
+Which reaction is a redox reaction?
+- HCl + NaOH → NaCl + H₂O
+  - Explanation - Acid-base neutralization; no electron transfer.
+- AgNO₃ + NaCl → AgCl + NaNO₃
+  - Explanation - Precipitation; no oxidation change.
+- CH₄ + 2O₂ → CO₂ + 2H₂O (Correct Choice)
+  - Explanation - Electron transfer occurs (C and O change oxidation states).
+- BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl
+  - Explanation - Precipitation only.
 
-Which forms a precipitate?
-
-A) NaNO3 + KCl
-All soluble salts → no precipitate.
-B) NaCl + KNO3
-All soluble.
-C) AgNO3 + NaCl
-AgCl is insoluble → precipitate forms.
-D) NaOH + KNO3
-Both soluble.
-
-Question 5:
-
-25 mL 0.200 M HCl titrated with 0.100 M NaOH. Volume for equivalence?
-
-A) 25 mL
-Too small.
-B) 50 mL
-Moles HCl = 0.025 × 0.2 = 0.005 mol
-Moles NaOH needed = 0.005 mol
-V = 0.005 / 0.1 = 0.050 L = 50 mL
-C) 12.5 mL
-Would only provide 0.00125 mol NaOH → too little.
-D) 100 mL
-Too much, would exceed equivalence.
-
-
-Question 6: _Zn(s)+Cu2+(aq)−>Zn2+(aq)+Cu(s)
-
-A) Zn
-Zn is oxidized → loses electrons. Not reduced.
-B) Zn2+
-Already oxidized → cannot gain electrons here.
-C) Cu
-Cu metal is the product of reduction → reduced, but the species being reduced is Cu²⁺.
-D) Cu2+
-Cu2+ gains 2 electrons → reduced to Cu(s).
-
-Question 7:
-
-Pb(NO3)2 + KI → PbI2(s) + KNO3(aq)
-
-A. Pb2+
-Reacting species → forms PbI2(s).
-B. I-
-Reacting species → combines with Pb2+.
-C. K+
-k+ does not react → spectator ion.
-D. PbI2
-Product, not an ion in solution → not a spectator.
-
-Question 8
-
-_2Al+3Cl2−>2AlCl3
-
-6.0 mol Cl2 → moles AlCl3?
-
-A) 3.0 mol
-Incorrect mole ratio calculation.
-B) 4.0 mol (correct)
-Moles AlCl3 = 6 × 2/3 = 4.0 mol
-C) 6.0 mol
-Assumes 1:1 ratio.
-D) 9.0 mol
-Overestimates.
-
-Question 9
-
-A) HCl + NaOH → NaCl + H2O
-No electron transfer → acid-base neutralization.
-B) AgNO3 + NaCl → AgCl + NaNO3
-No change in oxidation states → precipitation reaction.
-C) CH4 + 2O2 → CO2 + 2H2O (right)
-C: -4 → +4, O: 0 → -2 → electrons transferred → redox.
-D) BaCl2 + Na2SO4 → BaSO4 + 2NaCl
-Precipitation reaction only → no redox.
-
-Question 10:
-
-100 mL 0.200 M AgNO3 + 100 mL 0.150 M NaCl
-
-Moles Ag+ = 0.100 × 0.200 = 0.0200 mol
-Moles Cl+ = 0.100 × 0.150 = 0.0150 mol → limiting
-Precipitate = 0.0150 mol
-
-Choices:
-
-A. 0.0150 mol (Correct)
-B. 0.0200 mol moles Ag+, not limiting
-C. 0.0350 mol sum of ions, nonsense
-D. 0.0050 mol too small
+10.
+100 mL 0.200 M AgNO₃ + 100 mL 0.150 M NaCl. How many moles of AgCl form?
+- 0.0150 mol (Correct Choice)
+  - Explanation - Cl⁻ is limiting: 0.100 × 0.150 = 0.0150 mol
+- 0.0200 mol
+  - Explanation - Excess Ag⁺.
+- 0.0350 mol
+  - Explanation - Incorrect sum.
+- 0.0050 mol
+  - Explanation - Too small; incorrect stoichiometry.
 
   # Unit 5 Kinetics
  ### Vocabulary List:
@@ -687,121 +662,119 @@ D. 0.0050 mol too small
 ### Real World Connection:
 - In modern airbags, there is a multistep reaction that occurs with the decomposition of solid sodium azide. The crash sensor ignites only when there is a sudden drop in the car’s momentum. When the temperature rises, the chemical bonds of sodium azide break, forming nitrogen gas. The deployment of an airbag demonstrates how fast particles break apart and react resulting in the rapid production of nitrogen gas. Hence, the nitrogen gas is ultimately used to reduce the impact force created by the crash.
 ### Quiz:
-AP Chemistry Unit 5 MCQ Explanations (1–10)
 
-Question 1
--If the concentration of A is doubled, what happens to the rate?
-Rate = k[A]
--A. remain the same
-This would only be true for a zero-order reaction, where rate does not depend on concentration.
--B. double (correct)
-First-order means rate is directly proportional to [A], so doubling [A] doubles the rate.
--C. quadruple
-This would occur if the reaction were second order in A (rate ∝ [A]²).
--D. increase eightfold
-This would correspond to a third-order dependence on A (rate ∝ [A]³).
+1.
+Question: If the concentration of A is doubled, what happens to the rate? Rate = k[A]
+- remain the same
+  - Explanation - Incorrect. This would only be true for a zero-order reaction where rate is independent of concentration.
+- double (Correct Choice)
+  - Explanation - Correct. First-order means rate is directly proportional to [A], so doubling [A] doubles the rate.
+- quadruple
+  - Explanation - Incorrect. This would occur if the reaction were second order in A.
+- increase eightfold
+  - Explanation - Incorrect. This would correspond to third-order dependence on A.
 
-Question 2
-Rate = k[A]^2[B]. If [A] is doubled, what happens to the rate?
-A. double
-This ignores the exponent of 2 on [A], which is critical in the rate law.
-B. triple
-No mathematical relationship in the rate law produces a factor of 3.
-C. quadruple (correct)
-Rate = k(2[A])^2[B] = 4k[A]^2[B], so rate increases by 4.
-D. eightfold
-This would require a cubic dependence on [A], not quadratic.
+2.
+Question: Rate = k[A]²[B]. If [A] is doubled, what happens to the rate?
+- double
+  - Explanation - Incorrect. This ignores the exponent of 2 on [A].
+- triple
+  - Explanation - Incorrect. No relationship in the rate law gives a factor of 3.
+- quadruple (Correct Choice)
+  - Explanation - Correct. Rate = k(2[A])²[B] = 4k[A]²[B].
+- eightfold
+  - Explanation - Incorrect. This would require cubic dependence on [A].
 
-Question 3
-Why does increasing temperature increase reaction rate?
-A. lowers activation energy
-Only a catalyst lowers activation energy, not temperature.
-B. increases number of particles
-Temperature does not change the number of particles present.
-C. increases fraction of effective collisions (correct)
-More molecules have energy greater than or equal to activation energy, increasing successful collisions.
-D. changes reaction mechanism
-Reaction mechanism typically does not change with temperature.
+3.
+Question: Why does increasing temperature increase reaction rate?
+- lowers activation energy
+  - Explanation - Incorrect. Only a catalyst lowers activation energy.
+- increases number of particles
+  - Explanation - Incorrect. Temperature does not change number of particles.
+- increases fraction of effective collisions (Correct Choice)
+  - Explanation - Correct. More molecules have energy ≥ activation energy, increasing successful collisions.
+- changes reaction mechanism
+  - Explanation - Incorrect. Mechanism typically does not change with temperature.
 
-Question 4
-Why do catalysts increase reaction rate?
-A. increase reactant concentration
-Catalysts do not change concentration.
-B. lower activation energy using alternate pathway (correct)
-Correct. Catalysts provide a lower-energy pathway for the reaction.
-C. increase product stability
-Catalysts do not affect thermodynamic stability of products.
-D. shift equilibrium toward products
-Catalysts do not change equilibrium constant.
+4.
+Question: Why do catalysts increase reaction rate?
+- increase reactant concentration
+  - Explanation - Incorrect. Catalysts do not change concentration.
+- lower activation energy using alternate pathway (Correct Choice)
+  - Explanation - Correct. Catalysts provide a lower-energy pathway.
+- increase product stability
+  - Explanation - Incorrect. Catalysts do not affect thermodynamics.
+- shift equilibrium toward products
+  - Explanation - Incorrect. Catalysts do not change equilibrium position.
 
-Question 5
-A graph of ln[A] vs time is linear. What is the reaction order?
-A. zero order
-Zero-order gives a linear [A] vs time graph.
-B. first order (correct)
-Only first-order reactions produce a linear ln[A] vs time graph.
-C. second order
-Second-order reactions are linear in 1/[A] vs time.
-D. third order
-Isnt used in AP testing
+5.
+Question: A graph of ln[A] vs time is linear. What is the reaction order?
+- zero order
+  - Explanation - Incorrect. Zero-order is linear in [A] vs time.
+- first order (Correct Choice)
+  - Explanation - Correct. First-order reactions are linear in ln[A] vs time.
+- second order
+  - Explanation - Incorrect. Second-order is linear in 1/[A] vs time.
+- third order
+  - Explanation - Not used in standard AP kinetics analysis.
 
-Question 6
-Which graph is linear for a second-order reaction?
-A. [A] vs time
-This corresponds to zero-order kinetics.
-B. Rate vs time
-Not used to determine reaction order.
-C. ln[A] vs time
-This corresponds to first-order kinetics.
-D. 1/[A] vs time (correct)
-Correct. Second-order reactions are linear in 1/[A] vs time.
+6.
+Question: Which graph is linear for a second-order reaction?
+- [A] vs time
+  - Explanation - Incorrect. This corresponds to zero-order kinetics.
+- Rate vs time
+  - Explanation - Incorrect. Not used to determine reaction order.
+- ln[A] vs time
+  - Explanation - Incorrect. This is first-order behavior.
+- 1/[A] vs time (Correct Choice)
+  - Explanation - Correct. Second-order reactions are linear in 1/[A] vs time.
 
-Question 7
-A reaction has a constant half-life. What does this indicate?
-A. zero order
-Zero-order half-life changes as concentration decreases.
-B. first order (correct)
-First-order reactions have constant half-life independent of concentration.
-C. second order
-Second-order half-life increases over time.
-D. third order
-Not associated with constant half-life behavior.
+7.
+Question: A reaction has a constant half-life. What does this indicate?
+- zero order
+  - Explanation - Incorrect. Zero-order half-life changes with concentration.
+- first order (Correct Choice)
+  - Explanation - Correct. First-order reactions have constant half-life.
+- second order
+  - Explanation - Incorrect. Half-life changes over time.
+- third order
+  - Explanation - Not applicable in this context.
 
-Question 8
-Which change increases reaction rate for a solid reactant?
-A. increase particle size
-Larger particles reduce surface area, slowing reaction.
-B. decrease surface area
-Fewer collisions occur, so rate decreases.
-C. crush into smaller pieces (correct)
-More surface area → more frequent effective collisions.
-D. lower temperature
-Decreases kinetic energy and collision frequency.
+8.
+Question: Which change increases reaction rate for a solid reactant?
+- increase particle size
+  - Explanation - Incorrect. Larger particles reduce surface area.
+- decrease surface area
+  - Explanation - Incorrect. This slows reaction rate.
+- crush into smaller pieces (Correct Choice)
+  - Explanation - Correct. Increases surface area and collision frequency.
+- lower temperature
+  - Explanation - Incorrect. Decreases kinetic energy and rate.
 
-Question 9
-Collision theory requires:
-A. equal masses
-Mass does not determine reaction success.
-B. sufficient energy and proper orientation (correct)
-Both are required for an effective collision.
-C. catalyst
-Catalysts speed up reactions but are not required.
-D. identical molecules
-Different molecules can still react.
+9.
+Question: Collision theory requires:
+- equal masses
+  - Explanation - Incorrect. Mass is not required for effective collisions.
+- sufficient energy and proper orientation (Correct Choice)
+  - Explanation - Correct. Both energy and orientation are required.
+- catalyst
+  - Explanation - Incorrect. Catalysts help but are not required.
+- identical molecules
+  - Explanation - Incorrect. Different molecules can still react.
 
-Question 10
-Identify the intermediate:
+10.
+Question: Identify the intermediate:
 Step 1: A + B → C
 Step 2: C + D → E
-A. A
-A is a reactant, consumed in Step 1.
-B. B
-B is also a reactant.
-C. C (correct)
-C is formed in Step 1 and consumed in Step 2 → intermediate.
-D. E
-E is the final product, not an intermediate.
 
+- A
+  - Explanation - Incorrect. A is a reactant.
+- B
+  - Explanation - Incorrect. B is a reactant.
+- C (Correct Choice)
+  - Explanation - Correct. C is formed in Step 1 and consumed in Step 2.
+- E
+  - Explanation - Incorrect. E is the final product.
 
 
   # Unit 6 Thermodynamics
@@ -848,121 +821,116 @@ In reality breaking a chemical bond requires energy(absorption) which is an endo
 - Have you ever used a hot or cold pack in your life?Have you wondered how heat is transferred from these things? When you pop an instant cold pack, it starts an endothermic reaction that absorbs heat and makes your injured ankle feel cold. On the other hand, activating a chemical hand warmer starts an exothermic reaction that releases heat, making your freezing hands feel hot.
 ### Quiz:
 
-Question 1: A gas absorbs 150 J of heat and does 40 J of work on the surroundings. ΔE = ?
+1.
+Question: A gas absorbs 150 J of heat and does 40 J of work on the surroundings. ΔE = ?
+- +190 J
+  - Explanation - Incorrect. This would be true if work were added to the system instead of done by the system.
+- +110 J (Correct Choice)
+  - Explanation - Correct. ΔE = q + w = 150 J + (−40 J) = 110 J.
+- -110 J
+  - Explanation - Incorrect. This incorrectly reverses the sign of heat absorbed.
+- -190 J
+  - Explanation - Incorrect. This assumes both heat and work are negative.
 
-A. +190 J
-This would be correct if work were added instead of subtracted. Work done by the system is energy leaving, so it should subtract.
-B. +110 J
-ΔE = q + w = 150 J + (-40 J) = 110 J. Correct.
-C. -110 J
-This reverses the sign of energy change; heat was absorbed → positive ΔE.
-D. -190 J
-This assumes both heat and work are negative → completely wrong.
-- Question 2: Beaker feels colder. What is true?
-  - Answer ΔH is negative
-  A colder beaker means system absorbed heat → ΔH positive (endothermic).
-  - Answer Heat flows from surroundings into the system (Correct Choice)
-  Correct. System takes in heat → surroundings lose heat → beaker gets colder.
-  - Bond formation exceeds bond breaking
-  Bond formation releases energy, but endothermic reactions require more energy to break bonds than
-  - The reaction violates the First Law
-  No law is violated. Energy is conserved; it just transfers.
-- Question 3: ΔH for multi-step reaction:
+2.
+Question: Beaker feels colder. What is true?
+- ΔH is negative
+  - Explanation - Incorrect. A colder beaker means the system absorbed heat, so ΔH is positive (endothermic).
+- Heat flows from surroundings into the system (Correct Choice)
+  - Explanation - Correct. The system absorbs heat, so the surroundings lose heat and feel colder.
+- Bond formation exceeds bond breaking
+  - Explanation - Incorrect. Endothermic processes require more energy to break bonds than is released forming bonds.
+- The reaction violates the First Law
+  - Explanation - Incorrect. Energy is conserved; it is only transferred.
 
-  ΔH₁ = +40 kJ
-  ΔH₂ = -75 kJ
-  ΔH₃ = +15 kJ
+3.
+Question: ΔH for multi-step reaction:
+ΔH₁ = +40 kJ, ΔH₂ = −75 kJ, ΔH₃ = +15 kJ
+- +130 kJ
+  - Explanation - Incorrect. This ignores the signs of enthalpy changes.
+- -20 kJ (Correct Choice)
+  - Explanation - Correct. 40 + (−75) + 15 = −20 kJ.
+- -50 kJ
+  - Explanation - Incorrect arithmetic.
+- +20 kJ
+  - Explanation - Incorrect sign handling.
 
-  A. +130 kJ
-  Adds magnitudes only → ignores signs.
-  B. -20 kJ (right)
-  Correct: 40 + (-75) + 15 = -20 kJ.
-  C. -50 kJ
-  Arithmetic mistake.
-  D. +20 kJ
-  Sign error.
+4.
+Question: Which is correct?
+- Breaking bonds always releases energy
+  - Explanation - Incorrect. Breaking bonds requires energy input.
+- Breaking bonds absorbs energy and forming bonds releases energy (Correct Choice)
+  - Explanation - Correct. Bond breaking is endothermic; bond formation is exothermic.
+- Both bond breaking and forming release energy
+  - Explanation - Incorrect. Only bond formation releases energy.
+- Bond formation always absorbs energy
+  - Explanation - Incorrect. Bond formation releases energy.
 
-Question 4: Which is correct?
+5.
+Question: Solution temperature rises → conclusion?
+- Reaction is endothermic
+  - Explanation - Incorrect. A temperature increase means heat is released, so it is exothermic.
+- Reaction absorbed heat from solution
+  - Explanation - Incorrect. This would make the solution colder.
+- Reaction released heat to solution (Correct Choice)
+  - Explanation - Correct. Heat released by the reaction increases solution temperature.
+- ΔH must equal zero
+  - Explanation - Incorrect. Heat transfer is occurring, so ΔH ≠ 0.
 
-A. Breaking bonds always releases energy
-False. Breaking bonds requires energy (endothermic).
-B. Breaking bonds absorbs energy and forming bonds releases energy (right)
-Correct. Breaking = energy in, forming = energy out.
-C. Both bond breaking and forming release energy
-False. Only forming releases energy.
-D. Bond formation always absorbs energy
-False. Forming bonds releases energy.
+6.
+Question: Height vs pathway analogy
+- Time required
+  - Explanation - Incorrect. Time depends on path taken.
+- Distance traveled
+  - Explanation - Incorrect. Distance depends on path.
+- Energy used by each student
+  - Explanation - Incorrect. Energy depends on the method/path.
+- Change in height (Correct Choice)
+  - Explanation - Correct. State functions depend only on initial and final states.
 
-Question 5: Solution temperature rises → conclusion?
+7.
+Question: What is the Standard Enthalpy of Formation?
+- H₂O(l)
+  - Explanation - Incorrect. This is a compound, so ΔHf° is not zero.
+- CO₂(g)
+  - Explanation - Incorrect. This is also a compound.
+- O₂(g) (Correct Choice)
+  - Explanation - Correct. Elements in their standard state have ΔHf° = 0.
+- NaCl(s)
+  - Explanation - Incorrect. This is a compound, not an element in standard state.
 
-A. Reaction is endothermic
-Temperature rises → reaction releases heat → exothermic.
-B. Reaction absorbed heat from solution
-Solution temperature rises → heat goes to solution, not from it.
-C. Reaction released heat to solution (correct)
-Correct. Heat released by reaction warms the solution.
-D. ΔH must equal zero
-Reaction is not zero; heat is transferred.
+8.
+Question: A student adds 250 J of heat to a 50.0 g sample of a metal. Temperature increases from 20.0°C to 30.0°C. What is the specific heat capacity?
+- 0.50 J/(g·°C) (Correct Choice)
+  - Explanation - Correct. c = 250 / (50.0 × 10.0) = 0.50 J/(g·°C).
+- 2.0 J/(g·°C)
+  - Explanation - Incorrect. This would require 1000 J of heat.
+- 5.0 J/(g·°C)
+  - Explanation - Incorrect. This is higher than water’s specific heat, unlikely for a metal.
+- 12.5 J/(g·°C)
+  - Explanation - Incorrect. This greatly overestimates heat capacity.
 
-Question 6: Height vs pathway analogy
+9.
+Question: Which increases entropy the most?
+- Water freezing
+  - Explanation - Incorrect. Liquid to solid decreases entropy.
+- Water condensing
+  - Explanation - Incorrect. Gas to liquid decreases entropy.
+- Ice melting (Correct Choice)
+  - Explanation - Correct. Solid to liquid increases disorder and entropy.
+- Salt crystallizing
+  - Explanation - Incorrect. Dissolved ions forming a solid decreases entropy.
 
-A. Time required
-Depends on path → not a state function.
-B. Distance traveled
-Depends on path → not a state function.
-C. Energy used by each student
-Depends on method → not a state function.
-D. Change in height (correct)
-Depends only on start and end → state function.
-
-7. What is the Standard Enthalpy of Formation
-A. H₂O(l)
-Compound → ΔHf° ≠ 0
-B. CO₂(g)
-Compound → ΔHf° ≠ 0
-C. O₂(g) (correct)
-Element in standard state → ΔHf° = 0
-D. NaCl(s)
-Compound → ΔHf° ≠ 0
-
-Question 8: A student adds 250 J of heat to a 50.0 g sample of an unknown metal. The metal's temperature increases from 20.0°C to 30.0°C.
-
-What is the specific heat capacity of the metal?
-
-A. 0.50 J/(g·°C) (correct)
-c=250/(50.0)(10.0)
-
-B. 2.0 J/(g·°C)
-q=(50)(2.0)(10)=1000 J
-The question only supplied 250 J.
-
-C. 5.0 J/(g·°C)
-This value is actually greater than the specific heat of water (4.18 J/g·°C), which would imply the metal stores heat even more effectively than water—highly unlikely.
-
-D. 12.5 J/(g·°C)
-Far more heat than was provided.
-
-Question 9: Which increases entropy the most?
-
-A. Water freezing
-Liquid → solid → less disorder → decreases entropy.
-B. Water condensing
-Gas → liquid → decreases entropy.
-C. Ice melting (correct)
-Solid → liquid → increases disorder → increases entropy.
-D. Salt crystallizing
-Ions in solution → solid → decreases entropy.
-
-10. ΔH = -250 kJ → spontaneous exothermic reaction.
-
-A. Products have greater potential energy than reactants
-Wrong. Exothermic → products lower energy.
-B. Reactants have greater potential energy than products (correct)
-Correct. ΔH negative → energy released → reactants higher energy.
-C. Reaction absorbs energy from surroundings
-Exothermic → releases energy.
-D. Bond breaking released more energy than bond formation
-Breaking bonds requires energy → bond formation releases more → exothermic overall.
+10.
+Question: ΔH = −250 kJ → spontaneous exothermic reaction. Which is correct?
+- Products have greater potential energy than reactants
+  - Explanation - Incorrect. Exothermic reactions have lower-energy products.
+- Reactants have greater potential energy than products (Correct Choice)
+  - Explanation - Correct. Negative ΔH means energy is released; reactants start higher.
+- Reaction absorbs energy from surroundings
+  - Explanation - Incorrect. Exothermic reactions release energy.
+- Bond breaking released more energy than bond formation
+  - Explanation - Incorrect. Bond breaking requires energy input.
 
   # Unit 7 Equilibrium
  ### Vocabulary List:
